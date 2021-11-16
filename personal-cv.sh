@@ -66,7 +66,7 @@ rm *.md
 # BIOSKETCH
 
 
-cp './cv/11. Biosketch.md' './11. Biosketch.md'
+cp './cv/11_Biosketch.md' './11_Biosketch.md'
 
 pandoc \
 	      '11. Biosketch.md' \
