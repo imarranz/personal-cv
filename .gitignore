@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.directory
 *.pdf
 *.html
 wkhtmltox/

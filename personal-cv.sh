@@ -42,7 +42,7 @@ MES=$(LANG=en_EN.UTF-8; date +"%B")
 
 echo $MES
 
-/home/ibon/Documentos/CV/CV/cv_markdown/wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
+./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
 	      --title 'Ibon Martínez-Arranz, CV' \
 	      --footer-font-size 8 --no-footer-line --footer-spacing 10 \
 	      --footer-center [fecha] \
@@ -51,7 +51,7 @@ echo $MES
 	      --header-right "Ibon Martínez-Arranz" \
 	      --replace fecha '- '$MES' '$(date +%d)', '$(date +%Y)' -' \
 	      --zoom 1 \
-	      'Ibon Martínez CV - '$(date +%Y%m%d)'.html' 'Ibon Martínez CV - '$(date +%Y%m%d)'.pdf'
+	      'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html' 'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.pdf'
       
 #mv 'Ibon Martínez CV - '$(date +%Y%m%d)'.html' '/media/imarranz/TOSHIBA EXT/Documentos/CV/CV/cv_markdown/tex/Ibon Martínez CV - '$(date +%Y%m%d)'.html'
 
@@ -69,7 +69,7 @@ rm *.md
 cp './cv/11_Biosketch.md' './11_Biosketch.md'
 
 pandoc \
-	      '11. Biosketch.md' \
+	      '11_Biosketch.md' \
 	      -f markdown -t html -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.html'
 
 	      
@@ -83,7 +83,7 @@ MES=$(LANG=en_EN.UTF-8; date +"%B")
 
 echo $MES
 
-/home/ibon/Documentos/CV/CV/cv_markdown/wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
+./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
 	      --title 'Ibon Martínez-Arranz, Biosketch' \
 	      --footer-font-size 8 --no-footer-line --footer-spacing 10 \
 	      --footer-center [fecha] \
