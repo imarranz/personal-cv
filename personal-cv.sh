@@ -1,8 +1,7 @@
 #!/bin/bash
 
 rm *.pdf
-#rm ./tex/*.pdf
-#rm ./tex/*.html
+rm *.html
 
 # Actualizamos el CV en la web
 
@@ -52,6 +51,17 @@ echo $MES
 	      --replace fecha '- '$MES' '$(date +%d)', '$(date +%Y)' -' \
 	      --zoom 1 \
 	      'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html' 'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.pdf'
+      
+./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
+	      --title 'Ibon Martínez-Arranz, CV' \
+	      --footer-font-size 8 --no-footer-line --footer-spacing 10 \
+	      --footer-center [fecha] \
+	      --footer-right 'page [page] of [topage]' \
+	      --header-font-size 8 --no-header-line --header-spacing 10 \
+	      --header-right "Ibon Martínez-Arranz" \
+	      --replace fecha '- '$MES' '$(date +%d)', '$(date +%Y)' -' \
+	      --zoom 1 \
+	      'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html' 'Ibon Martinez-Arranz CV.pdf'      
       
 #mv 'Ibon Martínez CV - '$(date +%Y%m%d)'.html' '/media/imarranz/TOSHIBA EXT/Documentos/CV/CV/cv_markdown/tex/Ibon Martínez CV - '$(date +%Y%m%d)'.html'
 
