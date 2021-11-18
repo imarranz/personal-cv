@@ -3,7 +3,15 @@
 rm *.pdf
 rm *.html
 
-# Actualizamos el CV en la web
+mym=$(date +'%B')
+
+#echo 'La variables es:'
+#echo $mym
+
+MES=$(LANG=es_ES.UTF-8; date +"%B")
+MES=$(LANG=en_EN.UTF-8; date +"%B")
+
+echo $MES
 
 cp './cv/00_Introduction.md' './00_Introduction.md'
 cp './cv/01_Professional_Experience.md' './01_Professional_Experience.md'
@@ -30,16 +38,6 @@ pandoc \
 	      '09_Congress.md' \
 	      '10_Personal.md' \
 	      -f markdown -t html -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html'
-	      
-mym=$(date +'%B')
-
-#echo 'La variables es:'
-#echo $mym
-
-MES=$(LANG=es_ES.UTF-8; date +"%B")
-MES=$(LANG=en_EN.UTF-8; date +"%B")
-
-echo $MES
 
 ./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
 	      --title 'Ibon Martínez-Arranz, CV' \
@@ -62,25 +60,48 @@ echo $MES
 	      --replace fecha '- '$MES' '$(date +%d)', '$(date +%Y)' -' \
 	      --zoom 1 \
 	      'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html' 'Ibon Martinez-Arranz CV.pdf'      
-      
-#mv 'Ibon Martínez CV - '$(date +%Y%m%d)'.html' '/media/imarranz/TOSHIBA EXT/Documentos/CV/CV/cv_markdown/tex/Ibon Martínez CV - '$(date +%Y%m%d)'.html'
 
-pandoc -H \
-	      './tex/Ibon Martínez-Arranz CV.tex' \
-	      './tex/Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html' \
-	      -o './tex/Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.pdf'
+python last_five_years.py
+
+pandoc \
+	      '00_Introduction.md' \
+	      '01_Professional_Experience.md' \
+	      '02_Education.md' \
+	      '03_Complementary_Education.md' \
+	      '04_Computer_Skills.md' \
+	      '05_Software_Development.md' \
+	      '06_Publications_last_five_years.md' \
+	      '07_R&D_Projects.md' \
+	      '08_Patents.md' \
+	      '09_Congress_last_five_years.md' \
+	      '10_Personal.md' \
+	      -f markdown -t html -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV (5y) - '$(date +%Y%m%d)'.html'	      
+-      
+./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
+	      --title 'Ibon Martínez-Arranz, CV' \
+	      --footer-font-size 8 --no-footer-line --footer-spacing 10 \
+	      --footer-center [fecha] \
+	      --footer-right 'page [page] of [topage]' \
+	      --header-font-size 8 --no-header-line --header-spacing 10 \
+	      --header-right "Ibon Martínez-Arranz" \
+	      --replace fecha '- '$MES' '$(date +%d)', '$(date +%Y)' -' \
+	      --zoom 1 \
+	      'Ibon Martínez-Arranz CV (5y) - '$(date +%Y%m%d)'.html' 'Ibon Martinez-Arranz CV (5y).pdf'    	      
+	      
      
-rm 00_Introduction.md
-rm 01_Professional_Experience.md
-rm 02_Education.md
-rm 03_Complementary_Education.md
-rm 04_Computer_Skills.md
-rm 05_Software_Development.md
-rm 06_Publications.md
+rm "00_Introduction.md"
+rm "01_Professional_Experience.md"
+rm "02_Education.md"
+rm "03_Complementary_Education.md"
+rm "04_Computer_Skills.md"
+rm "05_Software_Development.md"
+rm "06_Publications.md"
+rm "06_Publications_last_five_years.md"
 rm "07_R&D_Projects.md"
-rm 08_Patents.md
-rm 09_Congress.md
-rm 10_Personal.md
+rm "08_Patents.md"
+rm "09_Congress.md"
+rm "09_Congress_last_five_years.md"
+rm "10_Personal.md"
 
 
 # BIOSKETCH
@@ -116,10 +137,10 @@ echo $MES
       
 #mv 'Ibon Martínez CV - '$(date +%Y%m%d)'.html' '/media/imarranz/TOSHIBA EXT/Documentos/CV/CV/cv_markdown/tex/Ibon Martínez CV - '$(date +%Y%m%d)'.html'
 
-pandoc -H \
-	      './tex/Ibon Martínez-Arranz Biosketch.tex' \
-	      './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.html' \
-	      -o './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.pdf'
+#pandoc -H \
+#	      './tex/Ibon Martínez-Arranz Biosketch.tex' \
+#	      './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.html' \
+#	      -o './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.pdf'
      
-rm 11_Biosketch.md
+rm "11_Biosketch.md"
 
