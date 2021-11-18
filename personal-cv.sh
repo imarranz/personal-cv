@@ -70,7 +70,17 @@ pandoc -H \
 	      './tex/Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html' \
 	      -o './tex/Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.pdf'
      
-rm *.md
+rm 00_Introduction.md
+rm 01_Professional_Experience.md
+rm 02_Education.md
+rm 03_Complementary_Education.md
+rm 04_Computer_Skills.md
+rm 05_Software_Development.md
+rm 06_Publications.md
+rm "07_R&D_Projects.md"
+rm 08_Patents.md
+rm 09_Congress.md
+rm 10_Personal.md
 
 
 # BIOSKETCH
@@ -111,5 +121,5 @@ pandoc -H \
 	      './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.html' \
 	      -o './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.pdf'
      
-rm *.md
+rm 11_Biosketch.md
 
