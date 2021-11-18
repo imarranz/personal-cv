@@ -204,7 +204,10 @@ strong {
 	visibility: hidden;
 }
 
-#computer-it-skills {
+/*#computer-it-skills {
+	 page-break-before: always; 
+}*/
+#software-development {
 	 page-break-before: always; 
 }
 #rd {
@@ -213,10 +216,10 @@ strong {
 #publications {
 	 page-break-before: always; 
 }
-#computer-it-skills {
+#congress-conferences-seminars {
 	 page-break-before: always; 
 }
-#congress-conferences-seminars {
+#complementary-education {
 	 page-break-before: always; 
 }
 
