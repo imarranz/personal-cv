@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .directory
 *.pdf
+!Ibon Martinez-Arranz CV.pdf
 *.html
 wkhtmltox/
