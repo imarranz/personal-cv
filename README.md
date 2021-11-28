@@ -32,8 +32,8 @@ Researcher in Metabolomics Department at OWL Metabolomics. (2010 - 2017).
 
 ## C. Contributions to Science
 
-Author of 22 publications
-Google Scholar H-index = 12
+Author of 21 publications
+Google Scholar H-index = 13
 Researcher unique identifier  
 
   * [ORCID](https://orcid.org/0000-0001-9483-8426)  
@@ -77,7 +77,7 @@ Peer-reviewed papers:
 ## D. Additional Information: Research Support and/or Scholastic Performance 
 -->
 
-## D. PATENTS GRANTED AND PENDING
+## D. Patents Granted and Pending
 
 | PUBLICATION <br> NUMBER | TITLE | INTERNATIONAL <br> FILING DATE |
 |:-:|:--|:-:|
