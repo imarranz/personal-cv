@@ -1,5 +1,6 @@
 # Biographical Sketch
 
+![](./figures/personal-cv-logo.png)
 
 **NAME**: Ibon Martínez Arranz  
 
