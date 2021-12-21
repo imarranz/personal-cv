@@ -16,7 +16,7 @@
 | National University of Distance Education (Spain) | MSc. | 07/2012 | Current Applied Statistics Techniques |
 | National University of Distance Education (Spain) | Expert degree | 07/2013 | Multivariate Statistical Techniques |
 | University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc. | 05/2016 | Mathematical Modeling, Statistical Analysis and Computation |
-| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2021 | Applied Mathematics |
+| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2022 | Applied Mathematics |
 
 Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models” under the supervision of José María Mato (General Director of CIC bioGUNE) and Dae-Jin (Data Science line leader of Basque Center for Applied Mathematics, BCAM) in which I apply genetic algorithms for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
 
