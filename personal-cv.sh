@@ -51,7 +51,7 @@ pandoc \
 	      '08_Patents.md' \
 	      '09_Congress.md' \
 	      '10_Personal.md' \
-	      -f markdown -t epub -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV.epub'	      
+	      -f markdown -t epub -s -c './css/cv.css' --self-contained -o 'Ibon Martinez-Arranz CV.epub'	      
 
 ./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
 	      --title 'Ibon Martínez-Arranz, CV' \
