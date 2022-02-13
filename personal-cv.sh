@@ -38,6 +38,20 @@ pandoc \
 	      '09_Congress.md' \
 	      '10_Personal.md' \
 	      -f markdown -t html -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html'
+	      
+pandoc \
+	      '00_Introduction.md' \
+	      '01_Professional_Experience.md' \
+	      '02_Education.md' \
+	      '03_Complementary_Education.md' \
+	      '04_Computer_Skills.md' \
+	      '05_Software_Development.md' \
+	      '06_Publications.md' \
+	      '07_R&D_Projects.md' \
+	      '08_Patents.md' \
+	      '09_Congress.md' \
+	      '10_Personal.md' \
+	      -f markdown -t epub -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV.epub'	      
 
 ./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
 	      --title 'Ibon Martínez-Arranz, CV' \
