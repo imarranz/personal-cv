@@ -1,5 +1,14 @@
 ## COMPLEMENTARY EDUCATION  
 
+`2022`
+**Curso de MongoDB**, Datademia, 30h.
+
+`2021`
+**Curso completo de SQL**, Datademia, 30h.
+
+`2021`
+**Python para Ciencia de Datos**, Datademia.
+
 `2019`
 **Decision, Data and Machine Learning**, Santiago Mazuelas. [BCAM][BCAM] - UPV/EHU, 10h.
 
