@@ -15,10 +15,10 @@ Gnu/Linux (Ubuntu, Mint, Suse), Windows(98, XP, 7), MS-DOS
 [RStudio][RStudio], [RKward][RKward], Tinn-R, Sweave, [knitr][knitr], [Rmarkdown][Rmarkdown], [Tidyverse][Tidyverse]  
 
 ### Python Utilities
-[ANACONDA][ANACONDA], [Jupyter][Jupyter], [JupyterLab][JupyterLab], [Spyder][Spyder]  
+[ANACONDA][ANACONDA], [Conda][Conda] [Jupyter][Jupyter], [JupyterLab][JupyterLab], [Spyder][Spyder]  
 
 ### Data Bases & Big Data Analysis
-MySQL, [SQLite][SQLite], [spark][spark], [H2O][H2O]
+MySQL, [SQLite][SQLite], [spark][spark], [H2O][H2O], [MongoDB][MongoDB]
 
 ### Machine Learning Utilities  
 Sklearn, Scikit-Learn Laboratory, caret
@@ -37,6 +37,7 @@ Microsoft Office (Word, PowerPoint, Excel, Access), OpenOffice
 [gnuplot]: http://www.gnuplot.info/ "Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms"
 [julia]: http://julialang.org/
 [ANACONDA]: https://www.anaconda.com/
+[Conda]: https://docs.conda.io/en/latest/ "Conda is an open source package management system and environment management system"
 [Jupyter]: https://jupyter.org/
 [JupyterLab]: https://github.com/jupyterlab/
 [Spyder]: https://spyder-ide.github.io/
@@ -48,6 +49,7 @@ Microsoft Office (Word, PowerPoint, Excel, Access), OpenOffice
 [SQLite]: https://www.sqlite.org/ "SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine. SQLite is the most used database engine in the world"
 [spark]: https://spark.apache.org/ "Apache Spark is a unified analytics engine for large-scale data processing"
 [H2O]: https://www.h2o.ai/ "H2O is an Open-source machine learning platform for enterprises"
+[MongoDB]: https://www.mongodb.com/ "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas" 
 [LaTeX]: http://www.latex-project.org/
 [Gimp]: http://www.gimp.org/
 [Inkscape]: http://www.inkscape.org/
