@@ -1,5 +1,11 @@
 ## CONGRESS, CONFERENCES & SEMINARS
 
+### 2022
+
+`2022`
+**Influence of pregnancy on NAFLD-associated lipidomic signatures**, Tatyana Kushner, *Ibon Martinez-Arranz*, Marco Arrese, Mazen Noureddin, Rhoda Sperling, Keith Sigel, Scott Friedman, Pablo Ortiz, Cristina Alonso,  
+*International Liver Congress 2022, 22-26 June, London*
+
 ### 2021
 
 `2021`  
