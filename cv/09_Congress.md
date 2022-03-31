@@ -19,13 +19,13 @@
 
 ### 2021
 
-`2021`  
+`2021`
 **Diagnostic performance of metabolomic test to detect nonalcoholic esteatohepatitis and significant fibrosis in patients at high risk of progressive fatty liver disease**, Rebeca Mayo, Paula Iruzubieta, Itziar Mincholé, Rocío Aller, Luis Ibañez-Samaniego, Javier Ampuero, Javier Abad, Rosa Martín-Mateos, María Teresa Arias-Loste, Agustín Albillos, Rafael Bañares, José Luis Calleja, Manuel Romero-Gomez, Pablo Ortiz, *Ibon Martínez-Arranz*, Javier Crespo,  
 *The Liver Meeting 2021, Annual Meeting of the American Association for the Study of Liver Diseases, November 12-15, 2021.*  
 *Hepatology, Volume 74, Number 1 (Suppl) | 949A*  
 | AASLD 2021 | ID: 1593 |  
 
-`2021`  
+`2021`
 **Metabolic Subtypes of Nonalcoholic Fatty Liver Disease Patients Exhibit Distinctive cardiovascular Risk Profiles**, *Ibon Martínez-Arranz*, Chiara Bruzzone, Rubén Gil-Redondo, Enara Arretxe, Marta Iruarrizaga-Lejarreta, Maider Bizkarguenaga, Itziar Mincholé, David Fernández Ramos, Fernando Lopitz Otsoa, Rebeca Mayo, Nieves Embade, Elizabeth Newberry, Martine C. Morrison, Robert Kleemann, Libor Vitek, Radan Bruha, Rocío Aller, Javier Crespo, Manuel Romero Gomez, Jesus Maria Banales, Marco Arrese, Kenneth Cusi, Elisabetta Bugianesi, Samuel Klein, Mazen Noureddin, Shelly C. Lu, Quentin Anstee, Oscar Millet, Nicholas O Davidson, Cristina Alonso, José M. Mato,  
 *The Liver Meeting 2021, Annual Meeting of the American Association for the Study of Liver Diseases, November 12-15, 2021.*  
 *Hepatology, Volume 74, Number 1 (Suppl) | 966A*  
