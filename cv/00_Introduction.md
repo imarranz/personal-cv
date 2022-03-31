@@ -17,11 +17,6 @@
 <br>
 <span class="fa-stack fa-lg">
   <i class="fa fa-circle fa-stack-2x"></i>
-  <i class="fa fa-bitbucket fa-stack-1x fa-inverse"></i>
-</span> <a href="http://www.bitbucket.com/imarranz">bitbucket/imarranz</a> 
-<br>
-<span class="fa-stack fa-lg">
-  <i class="fa fa-circle fa-stack-2x"></i>
   <i class="fa fa-book fa-stack-1x fa-inverse"></i>
 </span> <a href="https://www.scopus.com/authid/detail.uri?authorId=55180708800">scopus</a> 
 <br>
