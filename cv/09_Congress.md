@@ -1,5 +1,22 @@
 ## CONGRESS, CONFERENCES & SEMINARS
 
+### 2022
+`2022`
+**A baseline signature of metabolites involving the gut-liver axis predicts MRI-PDFF response to FASN INhibitor TVB-2640 in NASH patients: results from the FASCINATE-1 study**, Rohit Loomba, Marie O’Farrell, Eduardo B. Martins, Katharine Grimmer, Alithea M. Zetter, Cristina Alonso, *Ibon Martinez-Arranz*, George Kemble, Stephen A. Harrison,  
+*International Liver Congress 2022*  
+| EASL ILC 2022 | ID: 785 |
+
+`2022`
+**Metabolic NAFLD subtypes align with cardiovascular and genetic risk factors**, *Ibon Martínez-Arranz* , Chiara Bruzzone, Mazen Noureddin, Rubén Gil-Redondo, Enara Arretxe, Marta Iruarrizaga-Lejarreta, Maider Bizkarguenaga, Itziar Mincholé, David Fernández Ramos, Fernando Lopitz Otsoa, Rebeca Mayo, Nieves Embade, Elizabeth Newberry, Bettina Mittendorf, Laura Izquierdo-Sánchez, Ylenia Pérez Castaño, Vaclav Smid, Jorge Arnold, Marcin Krawczyk, Paula Iruzubieta, Urko M. Marigorta, Martine C. Morrison, Robert Kleemann, Antonio Martín Duce , Liat Hayardeny , Libor Vitek, Radan Bruha, Rocío Aller , Javier Crespo, Manuel Romero Gomez, Jesus Maria Banales, Marco Arrese, Kenneth Cusi, Elisabetta Bugianesi, Samuel Klein, Shelly C. Lu, Quentin Anstee, Oscar Millet, Nicholas O. Davidson, Cristina Alonso, José M. Mato,  
+*International Liver Congress 2022*    
+| EASL ILC 2022 | ID: 1132 |
+
+`2022`
+**Influence of pregnancy on NAFLD-associated lipidomic signatures**, Tatyana Kushner, *Ibon Martinez-Arranz*, Marco Arrese, Mazen Noureddin, Pablo Ortiz, Cristina Alonso,  
+*International Liver Congress 2022*  
+| EASL ILC 2022 | ID: 3411 |
+
+
 ### 2021
 
 `2021`  
