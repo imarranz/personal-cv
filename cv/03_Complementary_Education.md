@@ -1,6 +1,9 @@
 ## COMPLEMENTARY EDUCATION  
 
 `2022`
+**Data Storytelling**, Datademia, 15h.
+
+`2022`
 **Curso de MongoDB**, Datademia, 30h.
 
 `2021`
