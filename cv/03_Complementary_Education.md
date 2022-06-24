@@ -1,6 +1,12 @@
 ## COMPLEMENTARY EDUCATION  
 
 `2022`
+**Machine Learning con Python**, Bizkaia Enpresa Digitala, 20h.
+
+`2022`
+**Python Avanzado para Análisis de Datos**, Bizkaia Enpresa Digitala, 20h.
+
+`2022`
 **Data Storytelling**, Datademia, 15h.
 
 `2022`
