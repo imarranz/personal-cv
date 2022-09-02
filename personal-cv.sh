@@ -38,19 +38,36 @@ pandoc \
 	      '09_Congress.md' \
 	      '10_Personal.md' \
 	      -f markdown -t html -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html'
+
+/usr/bin/printf """
+--- 
+title: 
+- type: main
+  text: Ibon Martínez-Arranz
+- type: subtitle
+  text: Currículum Vitae
+creator:
+- role: author
+  text: Ibon Martínez-Arranz
+date: 2022-09-02
+lang: en-EN
+---
+""" > "Ibon Martinez-Arranz CV.md"
+
+cat '00_Introduction.md' >> "Ibon Martinez-Arranz CV.md"
+cat '01_Professional_Experience.md' >> "Ibon Martinez-Arranz CV.md"
+cat '02_Education.md' >> "Ibon Martinez-Arranz CV.md"
+cat '03_Complementary_Education.md' >> "Ibon Martinez-Arranz CV.md"
+cat '04_Computer_Skills.md' >> "Ibon Martinez-Arranz CV.md"
+cat '05_Software_Development.md' >> "Ibon Martinez-Arranz CV.md"
+cat '06_Publications.md' >> "Ibon Martinez-Arranz CV.md"
+cat '07_R&D_Projects.md' >> "Ibon Martinez-Arranz CV.md"
+cat '08_Patents.md' >> "Ibon Martinez-Arranz CV.md"
+cat '09_Congress.md' >> "Ibon Martinez-Arranz CV.md"
+cat '10_Personal.md' >> "Ibon Martinez-Arranz CV.md"
 	      
 pandoc \
-	      '00_Introduction.md' \
-	      '01_Professional_Experience.md' \
-	      '02_Education.md' \
-	      '03_Complementary_Education.md' \
-	      '04_Computer_Skills.md' \
-	      '05_Software_Development.md' \
-	      '06_Publications.md' \
-	      '07_R&D_Projects.md' \
-	      '08_Patents.md' \
-	      '09_Congress.md' \
-	      '10_Personal.md' \
+	      'Ibon Martinez-Arranz CV.md' \
 	      -f markdown -t epub -s -c './css/cv.css' --self-contained -o 'Ibon Martinez-Arranz CV.epub'	      
 
 ./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
