@@ -225,6 +225,9 @@ strong {
 #projects {
 	 page-break-before: always; 
 }
+#patents-granted-and-pending {
+	 page-break-before: always; 
+}
 
 /*#patents-granted-and-pending {
     page-break-before: always;
