@@ -93,6 +93,9 @@ BSc degree in Mathematics. *Faculty of Science and Technology, University of the
 ## COMPLEMENTARY EDUCATION  
 
 `2022`
+**Reinforcement Learning y Deep Learning para el Diseño de Sistemas de Toma de Decisiones**, Bizkaia Enpresa Digitala, 20h. 
+
+`2022`
 **Machine Learning con Python**, Bizkaia Enpresa Digitala, 20h.
 
 `2022`
