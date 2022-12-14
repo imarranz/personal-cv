@@ -21,7 +21,7 @@ Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied t
 
 ## A. Personal Statement
 
-Ibon Martínez-Arranz got his BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and performed a MSc. in Current Applied Statistics Techniques and a MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, he joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst and his work was mainly focused on the epidemiological report of renal patients. When he joined OWL Metabolomics in 2010, Ibon first worked as a researcher in the Metabolomics Department and in 2017, he became the head of the Data Science Department, being responsible for prediction and statistical computation management since then. This highly experienced team psupports metabolomics services, laboratory processes, data handling, R&D projects and technology transfer processes.
+Ibon Martínez-Arranz got his BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and performed a MSc. in Current Applied Statistics Techniques and a MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, he joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst and his work was mainly focused on the epidemiological report of renal patients. When he joined OWL Metabolomics in 2010, Ibon first worked as a researcher in the Metabolomics Department and in 2017, he became the head of the Data Science Department, being responsible for prediction and statistical computation management since then. This high experience provide support to metabolomics services, laboratory processes, data handling, R&D projects and technology transfer processes.
 
 
 ## B. Positions and Honors
@@ -32,7 +32,7 @@ Researcher in Metabolomics Department at OWL Metabolomics. (2010 - 2017).
 ## C. Contributions to Science
 
 Author of 22 publications
-Google Scholar H-index = 13
+Google Scholar H-index = 14
 Researcher unique identifier  
 
   * [ORCID](https://orcid.org/0000-0001-9483-8426)  
