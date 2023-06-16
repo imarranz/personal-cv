@@ -1,5 +1,13 @@
 ## PUBLICATIONS
 
+### 2023
+
+`2023`
+**Role of Intracellular Drug Disposition in the Response of Acute Myeloid Leukemia to Cytarabine and Idarubicin Induction Chemotherapy**, Gabriela Rodríguez-Macías, Oscar Briz, Candela Cives-Losada, María C. Chillón, Carolina Martínez-Laperche, *Ibon Martínez-Arranz*, Ismael Buño, Marcos González-Díaz, José L. Díez-Martín, Jose J. G. Marin and Rocio I. R. Macias
+*Cancers, 2023, 15(12), 3145*
+| [doi](https://doi.org/10.3390/cancers15123145) | [pubmed]() | [pdf](https://www.mdpi.com/2072-6694/15/12/3145/pdf?version=1686470457) |
+
+
 ### 2022
 
 `2022` 
