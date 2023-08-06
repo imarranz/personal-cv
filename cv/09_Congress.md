@@ -1,6 +1,7 @@
 ## CONGRESS, CONFERENCES & SEMINARS
 
 ### 2022
+
 `2022`
 **A baseline signature of metabolites involving the gut-liver axis predicts MRI-PDFF response to FASN INhibitor TVB-2640 in NASH patients: results from the FASCINATE-1 study**, Rohit Loomba, Marie O’Farrell, Eduardo B. Martins, Katharine Grimmer, Alithea M. Zetter, Cristina Alonso, *Ibon Martinez-Arranz*, George Kemble, Stephen A. Harrison,  
 *International Liver Congress 2022*  
@@ -77,7 +78,7 @@
 **Obese patients carrying NAFLD-associated genetic variants present specific serum and liver lipidomic profiles: Identification of a lipidomic signature in serum to estimate the liver fat content**, Alvaro Santos-Laso, Leyre Velaz, Cristina Alonso, Emma Eizaguirre, *Ibon Martínez-Arranz*, Maria Jesus Pareja, Ioana Riaño, Jesper Andersen, Enara Arretxe, Itziar Mincholé, Pablo Ortiz, Maria Jesus Perugorria, Ana Landa, Marcin Krawczyk, Frank Lammert, Rui Eduardo Castro, Patricia Aspichueta, Manuel Romero-Gomez, Luis Bujanda, Pedro Miguel Rodrigues and Jesus Banales,  
 *The Liver Meeting 2019, The 70<SUP>th</SUP> Annual Meeting of the American Association for the Study of Liver Diseases, Boston, (EEUU), November 8-12, 2019.*  
 | AASLD Foundation Abstract Award Recipient | ID: 260 |
-
+ima
 `2019`
 **Non-invasive serum lipidomic approach to discriminate non-alcoholic steatohepatitis in multiethnic patients with type 2 Diabetes Mellitus**, *Ibon Martínez-Arranz*, Rebeca Mayo, Jesus Banales, Itziar Mincholé, Pablo Ortiz, Fermando Bril, Marco Arrese, Javier Crespo Garcia, Cristina Alonso, Jose M. Mato and Kenneth Cusi,  
 *The Liver Meeting 2019, The 70<SUP>th</SUP> Annual Meeting of the American Association for the Study of Liver Diseases, Boston, (EEUU), November 8-12, 2019.*  

@@ -1,5 +1,8 @@
 ## COMPLEMENTARY EDUCATION  
 
+`2023`
+**Machine Learning aplicado con Pycaret**, Bizkaia Enpresa Digitala, 8h. 
+
 `2022`
 **Reinforcement Learning y Deep Learning para el Diseño de Sistemas de Toma de Decisiones**, Bizkaia Enpresa Digitala, 20h. 
 
