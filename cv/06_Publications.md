@@ -3,14 +3,14 @@
 ### 2023
 
 `2023`
-**Serum identification of At-Risk MASH: The Metabolomics-Advanced steatohepatitis fibrosis score (MASEF)**, Mazen Noureddin, Emily Truong, Rebeca Mayo, Ibon Martínez-Arranz, Itziar Mincholé, Jesus M Banales, Marco Arrese, Kenneth Cusi, María Teresa Arias-Loste, Radan Bruha, Manuel Romero-Gómez, Paula Iruzubieta, Rocio Aller, Javier Ampuero, José Luis Calleja, Luis Ibañez-Samaniego, Patricia Aspichueta, Antonio Marín-Duce, Tatyana Kushner, Pablo Ortiz, Stephen A Harrison, Quentin M Anstee, Javier Crespo, José M Mato, and Arun J Sanyal  
+**Serum identification of At-Risk MASH: The Metabolomics-Advanced steatohepatitis fibrosis score (MASEF)**, Mazen Noureddin, Emily Truong, Rebeca Mayo, *Ibon Martínez-Arranz*, Itziar Mincholé, Jesus M Banales, Marco Arrese, Kenneth Cusi, María Teresa Arias-Loste, Radan Bruha, Manuel Romero-Gómez, Paula Iruzubieta, Rocio Aller, Javier Ampuero, José Luis Calleja, Luis Ibañez-Samaniego, Patricia Aspichueta, Antonio Marín-Duce, Tatyana Kushner, Pablo Ortiz, Stephen A Harrison, Quentin M Anstee, Javier Crespo, José M Mato, and Arun J Sanyal  
 *Hepatology*  
 | [doi](https://doi.org/10.1097/hep.0000000000000542) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/37505221/) | 
 
 
 `2023`
 **Role of Intracellular Drug Disposition in the Response of Acute Myeloid Leukemia to Cytarabine and Idarubicin Induction Chemotherapy**, Gabriela Rodríguez-Macías, Oscar Briz, Candela Cives-Losada, María C. Chillón, Carolina Martínez-Laperche, *Ibon Martínez-Arranz*, Ismael Buño, Marcos González-Díaz, José L. Díez-Martín, Jose J. G. Marin and Rocio I. R. Macias
-*Cancers, 2023, 15(12), 3145*
+*Cancers, 2023, 15(12), 3145*  
 | [doi](https://doi.org/10.3390/cancers15123145) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/37370755/) | [pdf](https://www.mdpi.com/2072-6694/15/12/3145/pdf?version=1686470457) |
 
 
