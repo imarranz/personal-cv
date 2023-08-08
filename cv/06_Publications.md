@@ -18,7 +18,7 @@
 
 `2022` 
 **Metabolic subtypes of nonalcoholic fatty liver disease patients exhibit distinctive cardiovascular risk profiles**, *Ibon Martínez-Arranz*, Chiara Bruzzone, Mazen Noureddin, Ruben Gil-Redondo, Itziar Mincholé, Maider Bizkarguenaga, Enara Arretxe, Marta Iruarrizaga-Lejarreta, David Fernández-Ramos, Fernando Lopitz-Otsoa, Rebeca Mayo, Nieves Embade, Elizabeth Newberry, Bettina Mittendorf, Laura Izquierdo-Sánchez, Vaclav Smid, Jorge Arnold, Paula Iruzubieta, Ylenia Pérez Castaño, Marcin Krawczyk, Urko M Marigorta, Martine C Morrison, Robert Kleemann, Antonio Martín-Duce, Liat Hayardeny, Libor Vitek, Radan Bruha, Rocío Aller de la Fuente, Javier Crespo, Manuel Romero-Gomez, Jesus M Banales, Marco Arrese, Kenneth Cusi, Elisabetta Bugianesi, Samuel Klein, Shelly C Lu, Quentin M Anstee, Oscar Millet, Nicholas O Davidson, Cristina Alonso, José M Mato  
-*Hepatology, 2022*    
+*Hepatology, 2022 Oct 76(4): 1121-1134*    
 | [doi](https://doi.org/10.1002/hep.32427) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/35220605/) | [pdf](https://aasldpubs.onlinelibrary.wiley.com/doi/epdf/10.1002/hep.32427) |  
 
 ### 2020
