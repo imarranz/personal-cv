@@ -13,30 +13,30 @@ MES=$(LANG=en_EN.UTF-8; date +"%B")
 
 echo $MES
 
-cp './cv/00_Introduction.md' './00_Introduction.md'
-cp './cv/01_Professional_Experience.md' './01_Professional_Experience.md'
-cp './cv/02_Education.md' './02_Education.md'
-cp './cv/03_Complementary_Education.md' './03_Complementary_Education.md'
-cp './cv/04_Computer_Skills.md' './04_Computer_Skills.md'
-cp './cv/05_Software_Development.md' './05_Software_Development.md'
-cp './cv/06_Publications.md' './06_Publications.md'
-cp './cv/07_R&D_Projects.md' './07_R&D_Projects.md'
-cp './cv/08_Patents.md' './08_Patents.md'
-cp './cv/09_Congress.md' './09_Congress.md'
-cp './cv/10_Personal.md' './10_Personal.md'
+cp './cv/000_Introduction.md' './000_Introduction.md'
+cp './cv/011_Professional_Experience.md' './011_Professional_Experience.md'
+cp './cv/021_Education.md' './021_Education.md'
+cp './cv/022_Complementary_Education.md' './022_Complementary_Education.md'
+cp './cv/031_Computer_Skills.md' './031_Computer_Skills.md'
+cp './cv/032_Software_Development.md' './032_Software_Development.md'
+cp './cv/041_Publications.md' './041_Publications.md'
+cp './cv/051_R&D_Projects.md' './051_R&D_Projects.md'
+cp './cv/061_Patents.md' './061_Patents.md'
+cp './cv/071_Congress.md' './071_Congress.md'
+cp './cv/081_Personal.md' './081_Personal.md'
 
 pandoc \
-	      '00_Introduction.md' \
-	      '01_Professional_Experience.md' \
-	      '02_Education.md' \
-	      '03_Complementary_Education.md' \
-	      '04_Computer_Skills.md' \
-	      '05_Software_Development.md' \
-	      '06_Publications.md' \
-	      '07_R&D_Projects.md' \
-	      '08_Patents.md' \
-	      '09_Congress.md' \
-	      '10_Personal.md' \
+	      '000_Introduction.md' \
+	      '011_Professional_Experience.md' \
+	      '021_Education.md' \
+	      '022_Complementary_Education.md' \
+	      '031_Computer_Skills.md' \
+	      '032_Software_Development.md' \
+	      '041_Publications.md' \
+	      '051_R&D_Projects.md' \
+	      '061_Patents.md' \
+	      '071_Congress.md' \
+	      '081_Personal.md' \
 	      -f markdown -t html -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html'
 
 /usr/bin/printf """
@@ -54,17 +54,17 @@ lang: en-EN
 ---
 """ > "Ibon Martinez-Arranz CV.md"
 
-cat '00_Introduction.md' >> "Ibon Martinez-Arranz CV.md"
-cat '01_Professional_Experience.md' >> "Ibon Martinez-Arranz CV.md"
-cat '02_Education.md' >> "Ibon Martinez-Arranz CV.md"
-cat '03_Complementary_Education.md' >> "Ibon Martinez-Arranz CV.md"
-cat '04_Computer_Skills.md' >> "Ibon Martinez-Arranz CV.md"
-cat '05_Software_Development.md' >> "Ibon Martinez-Arranz CV.md"
-cat '06_Publications.md' >> "Ibon Martinez-Arranz CV.md"
-cat '07_R&D_Projects.md' >> "Ibon Martinez-Arranz CV.md"
-cat '08_Patents.md' >> "Ibon Martinez-Arranz CV.md"
-cat '09_Congress.md' >> "Ibon Martinez-Arranz CV.md"
-cat '10_Personal.md' >> "Ibon Martinez-Arranz CV.md"
+cat '000_Introduction.md' >> "Ibon Martinez-Arranz CV.md"
+cat '011_Professional_Experience.md' >> "Ibon Martinez-Arranz CV.md"
+cat '021_Education.md' >> "Ibon Martinez-Arranz CV.md"
+cat '022_Complementary_Education.md' >> "Ibon Martinez-Arranz CV.md"
+cat '031_Computer_Skills.md' >> "Ibon Martinez-Arranz CV.md"
+cat '032_Software_Development.md' >> "Ibon Martinez-Arranz CV.md"
+cat '041_Publications.md' >> "Ibon Martinez-Arranz CV.md"
+cat '051_R&D_Projects.md' >> "Ibon Martinez-Arranz CV.md"
+cat '061_Patents.md' >> "Ibon Martinez-Arranz CV.md"
+cat '071_Congress.md' >> "Ibon Martinez-Arranz CV.md"
+cat '081_Personal.md' >> "Ibon Martinez-Arranz CV.md"
 	      
 pandoc \
 	      'Ibon Martinez-Arranz CV.md' \
@@ -92,22 +92,22 @@ pandoc \
 	      --zoom 1 \
 	      'Ibon Martínez-Arranz CV - '$(date +%Y%m%d)'.html' 'Ibon Martinez-Arranz CV.pdf'      
 
-python last_five_years.py
+python ./code/last_five_years.py
 
 pandoc \
-	      '00_Introduction.md' \
-	      '01_Professional_Experience.md' \
-	      '02_Education.md' \
-	      '03_Complementary_Education.md' \
-	      '04_Computer_Skills.md' \
-	      '05_Software_Development.md' \
-	      '06_Publications_last_five_years.md' \
-	      '07_R&D_Projects.md' \
-	      '08_Patents.md' \
-	      '09_Congress_last_five_years.md' \
-	      '10_Personal.md' \
+	      '000_Introduction.md' \
+	      '011_Professional_Experience.md' \
+	      '021_Education.md' \
+	      '022_Complementary_Education.md' \
+	      '031_Computer_Skills.md' \
+	      '032_Software_Development.md' \
+	      '041_Publications_last_five_years.md' \
+	      '051_R&D_Projects.md' \
+	      '061_Patents.md' \
+	      '071_Congress_last_five_years.md' \
+	      '081_Personal.md' \
 	      -f markdown -t html -s -c './css/cv.css' --self-contained -o 'Ibon Martínez-Arranz CV (5y) - '$(date +%Y%m%d)'.html'	      
--      
+
 ./wkhtmltox/bin/wkhtmltopdf -L 20 -R 20 -T 30 -B 30 \
 	      --title 'Ibon Martínez-Arranz, CV' \
 	      --footer-font-size 8 --no-footer-line --footer-spacing 10 \
@@ -120,25 +120,25 @@ pandoc \
 	      'Ibon Martínez-Arranz CV (5y) - '$(date +%Y%m%d)'.html' 'Ibon Martinez-Arranz CV (5y).pdf'    	      
 	      
      
-rm "00_Introduction.md"
-rm "01_Professional_Experience.md"
-rm "02_Education.md"
-rm "03_Complementary_Education.md"
-rm "04_Computer_Skills.md"
-rm "05_Software_Development.md"
-rm "06_Publications.md"
-rm "06_Publications_last_five_years.md"
-rm "07_R&D_Projects.md"
-rm "08_Patents.md"
-rm "09_Congress.md"
-rm "09_Congress_last_five_years.md"
-rm "10_Personal.md"
+rm "000_Introduction.md"
+rm "011_Professional_Experience.md"
+rm "021_Education.md"
+rm "022_Complementary_Education.md"
+rm "031_Computer_Skills.md"
+rm "032_Software_Development.md"
+rm "041_Publications.md"
+rm "041_Publications_last_five_years.md"
+rm "051_R&D_Projects.md"
+rm "061_Patents.md"
+rm "071_Congress.md"
+rm "071_Congress_last_five_years.md"
+rm "081_Personal.md"
 
 
 # BIOSKETCH
 
 
-cp './cv/11_Biosketch.md' './11_Biosketch.md'
+cp './cv/091_Biosketch.md' './091_Biosketch.md'
 
 pandoc \
 	      '11_Biosketch.md' \
@@ -173,5 +173,5 @@ echo $MES
 #	      './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.html' \
 #	      -o './tex/Ibon Martínez-Arranz Biosketch - '$(date +%Y%m%d)'.pdf'
      
-rm "11_Biosketch.md"
+rm "091_Biosketch.md"
 

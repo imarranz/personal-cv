@@ -10,7 +10,7 @@ ID Patent: EP16382320.6
   
 ### [WO2018007422](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018007422&_cid=P20-KV80GF-12038-1) 
 **Identification of human Non-Alcoholic Fatty Liver Disease (NAFLD) subtypes**, The present invention is directed to a profiling method for subtypes in non- alcoholic fatty liver disease (NAFLD) patients and to diagnostic methods within those subtypes to discriminate non-alcoholic steatohepatitis (NASH) versus steatosis patients.  
-ID Patent: EP16382319.8 |
+ID Patent: EP16382319.8
   
 ### [WO2017055397](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017055397&_cid=P20-KV80HV-12559-1) 
 **Metabolomic signature of diagnosis and disease progression in Non-Alcoholic Fatty Liver Disease (NAFLD)**, The present invention is directed to a diagnostic method for non-alcoholic fatty liver disease (NAFLD) and to a method for monitoring the progression of the disease based on the determination of the levels of different metabolites. The invention also provides a method for determining the efficacy of an NAFLD therapy and a method for identification of compounds suitable for the treatment of NAFLD.  

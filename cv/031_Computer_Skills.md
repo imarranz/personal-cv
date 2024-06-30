@@ -6,10 +6,10 @@ Gnu/Linux (Ubuntu, Mint, Suse), Windows(98, XP, 7), MS-DOS
 -->
 
 ### Structured Programming
-[Python][Python], FORTRAN, C/C++, Visual Basic  
+[Python][Python], FORTRAN, C/C++, Visual Basic
 
 ### Scientific Programming & Statistics
-[R][R], [GNUplot][gnuplot], [Julia][julia], SPSS, SAS, Matlab, Mathematica  
+[R][R], [GNUplot][gnuplot], [Julia][julia], SPSS, SAS, Matlab, Mathematica
 
 ### R Utilities
 [RStudio][RStudio], [RKward][RKward], Tinn-R, Sweave, [knitr][knitr], [Rmarkdown][Rmarkdown], [Tidyverse][Tidyverse]  
@@ -33,7 +33,7 @@ CPLEX, COIN-OR, GUSEK
 Microsoft Office (Word, PowerPoint, Excel, Access), OpenOffice  
 
 [Python]: https://www.python.org/ "Python is a programming language that lets you work quickly and integrate systems more effectively"
-[R]: www.r-project.com "R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS"
+[R]: https://www.r-project.org/ "R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS"
 [gnuplot]: http://www.gnuplot.info/ "Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms"
 [julia]: http://julialang.org/
 [ANACONDA]: https://www.anaconda.com/

@@ -1,5 +1,28 @@
 ## CONGRESS, CONFERENCES & SEMINARS
 
+### 2024
+
+`2024`
+**At-risk MASH diagnosis in patients with type 2 diabetes mellitus**, *Ibon Martínez-Arranz*, Marco Arrese, Rebeca Mayo, Itziar Mincholé, María Encarnación Blanco, Patricia Aspichueta, Cristina Alonso, Jesús M Bañales,  
+*American Diabetes Association, June 21-24, 2024.*  
+| ADA 84 | ID: 1326-P |
+
+### 2023
+
+`2023`
+**Genetic Algorithms Reveal Potential to Stratify NAFLD Heterogeneity**, *Ibon Martínez-Arranz*, Cristina Alonso, Rebeca Mayo, Ruben Gil-Redondo, Itziar Mincholé, Alejandro Montilla, Óscar Millet, Mazen Noureddin,
+Shelly C. Lu, Nicholas Davidson and José M Mato,  
+*The Liver Meeting 2023, Annual Meeting of the American Association for the Study of Liver Diseases, November 10-14, 2023.*  
+| AASLD 2023 | ID: 2048-A |  
+
+`2023`
+**At-risk NASH Identification using an algorithm that combines FIB-4 + MASEF (Metabolomics-Advanced Steatohepatitis Fibrosis Score)**, Mazen Noureddin, Emily Truong, Rebeca Mayo, *Ibon Martínez-Arranz*, Itziar Mincholé, Jesus M.
+Banales, Marco Arrese Jimenez, Kenneth Cusi, Maria Teresa Arias, Radan Bruha, Manuel Romero-Gómez, Paula Iruzubieta, Rocio Aller, Javier Ampuero, Jose Luis Calleja, Luis Ibáñezc Samaniego, Patricia Aspichueta, Antonio Marín-Duce, Tatyana Kushner, Pablo Ortiz, Stephen A Harrison, Quentin M. Anstee, Javier
+Crespo Garcia, José M Mato and Arun Sanyal,  
+*The Liver Meeting 2023, Annual Meeting of the American Association for the Study of Liver Diseases, November 10-14, 2023.*  
+| AASLD 2023 | ID: 2015-A |
+
+
 ### 2022
 
 `2022`
@@ -213,7 +236,7 @@ Cristina Alonso, Marta Iruarrizaga-Lejarreta, Laura delaCruz-Villar, Itziar Minc
 **A non-invasive lipidomic test accurately discriminates NASH from steatosis: A blind validation study**, 
 Javier Crespo, *Ibon Martínez-Arranz*, Tim Montgomery, Manuel Romero-Gómez, Rebeca Mayo, Rocío Aller de la Fuente, Joan Caballería, Daniel A. de Luis, Cristina Alonso, Libor Vitek, Radan Bruha, Pablo Ortiz,  
 *1<SUP>st</SUP> International Workshop on NASH Biomarkers, 29-30 April 2016, Washington, DC, USA*  
-| [web](www.expertmedicalevents.com "International Workshop on NASH Biomarkers") |
+| [web](https://www.expertmedicalevents.com "International Workshop on NASH Biomarkers") |
 
 `2016`
 **Clinical validation of non-invasive lipidomic test for the diagnosis of Non-Alcoholic Fatty Liver Disease (NAFLD)**, 

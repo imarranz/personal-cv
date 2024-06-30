@@ -8,7 +8,12 @@
   
 ### Employment
 
-`2017`
+`2023`
+[OWL Metabolomics (Rubió Metabolomics, S.L.)][OWL Metabolomics] **Data Science Manager**.
+Data Processing and Analysis, Statistical Studies and Operational Research. *Statistical data processing and analysis. Collaboration in the preparation of technical reports. Elaboration of the statistical methodology used and justification.*
+
+
+`2017-2023`
 [OWL (One Way Liver, S.L.)][OWL (One Way Liver, S.L.)] **Data Science Manager**.  
 Data Processing and Analysis, Statistical Studies and Operational Research. *Statistical data processing and analysis. Collaboration in the preparation of technical reports. Elaboration of the statistical methodology used and justification.*
 
@@ -20,6 +25,7 @@ Data Processing and Analysis, Statistical Studies and Operational Research. *Sta
 [COHS Consultores en Ciencias Humanas, S.L.][COHS Consultores en Ciencias Humanas, S.L.] **Data Processing and Analysis**.  
 Data Processing and Analysis, Statistical Studies and Operational Research. *Statistical data processing and analysis. Collaboration in the preparation of technical reports. Elaboration of the statistical methodology used and justification.*
 
-[OWL (One Way Liver, S.L.)]: http://www.owlmetabolomics.com/liver-disease-diagnosis.aspx
+[OWL Metabolomics]: https://owlmetabolomics.com/
+[OWL (One Way Liver, S.L.)]: https://owlmetabolomics.com/
 [COHS Consultores en Ciencias Humanas, S.L.]: http://www.gac.com.es
-[OWL]: http://www.owlmetabolomics.com/liver-disease-diagnosis.aspx
+[OWL]: https://owlmetabolomics.com/

@@ -4,9 +4,8 @@
 
 `2023`
 **Serum identification of At-Risk MASH: The Metabolomics-Advanced steatohepatitis fibrosis score (MASEF)**, Mazen Noureddin, Emily Truong, Rebeca Mayo, *Ibon Martínez-Arranz*, Itziar Mincholé, Jesus M Banales, Marco Arrese, Kenneth Cusi, María Teresa Arias-Loste, Radan Bruha, Manuel Romero-Gómez, Paula Iruzubieta, Rocio Aller, Javier Ampuero, José Luis Calleja, Luis Ibañez-Samaniego, Patricia Aspichueta, Antonio Marín-Duce, Tatyana Kushner, Pablo Ortiz, Stephen A Harrison, Quentin M Anstee, Javier Crespo, José M Mato, and Arun J Sanyal  
-*Hepatology*  
+*Hepatology 79(1):p 135-148, January 2024.*
 | [doi](https://doi.org/10.1097/hep.0000000000000542) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/37505221/) | 
-
 
 `2023`
 **Role of Intracellular Drug Disposition in the Response of Acute Myeloid Leukemia to Cytarabine and Idarubicin Induction Chemotherapy**, Gabriela Rodríguez-Macías, Oscar Briz, Candela Cives-Losada, María C. Chillón, Carolina Martínez-Laperche, *Ibon Martínez-Arranz*, Ismael Buño, Marcos González-Díaz, José L. Díez-Martín, Jose J. G. Marin and Rocio I. R. Macias
@@ -54,7 +53,7 @@
 **Metabolomics discloses potential biomarkers to predict the acute HVPG response to propranolol in patients with cirrhosis**,
 Enric Reverter, Juan José Lozano, Cristina Alonso, Annalisa Berzigotti, Susana Seijo, Fanny Turon, Anna Baiges, Mari Luz Martínez-Chantar, José M. Mato, *Ibon Martínez-Arranz*, Vincenzo La Mura, Virginia Hernández-Gea, Jaume Bosch, Juan Carlos García-Pagán,  
 *Liver International, Jan. 13, 2019*  
-| [doi](https.//doi.org101111/liv.14042) | [abstract]() | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30637923) |  
+| [doi](https://doi.org101111/liv.14042) | [abstract]() | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30637923) |
 
 `2019`
 **Plasma miRNAs signature validation for early detection of colorectal cancer**, Marta Herreros-Villanueva, Saray Duran-Sanchon, Ana Carmen Martín, Rosa Pérez-Palacios, Elena Vila-Navarro, María Marcuello, Mireia Diaz-Centeno, Joaquín Cubiella, Maria Soledad Diez, Luis Bujanda, Angel Lanas, Rodrigo Jover, Vicent Hernández, Enrique Quintero, Juan José Lozano, Marta García-Cougil, *Ibon Martínez-Arranz*, Antoni Castells, Meritxell Gironella and Rocio Arroyo  
@@ -76,23 +75,10 @@ Martine C. Morrison, Lars Verschuren, Kanita Salic, Joanne Verheij, Aswin Menke,
 | [doi](https://doi.org/10.1002/hep4.1270) | [abstract]() | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30556039) | [pdf](https://aasldpubs.onlinelibrary.wiley.com/doi/epdf/10.1002/hep4.1270) |
 
 `2018`
-**Anti-inflammatory and anti-fibrotic effects of obeticholic acid in Ldlr-/-.Leiden mice are paralleled by counterregulation of gene and metabolome signatures that are characteristic for human non-alcoholic steatohepatitis**, Martine Morrison, Lars Verschuren, Kanita Salic, Joanne Verheij, Aswin Menke, Peter Y Wielinga, Marta Iruarrizaga-Lejarreta, Gole Laurent, Wei-Miao Yu, Scott Turner, Martien Caspers, *Ibon Martinez-Arranz*, Elsbet Pieterman, Reinout Stoop, Arianne van Koppen, Anita M van den Hoek, José  M Mato, Roeland Hanemaaijer, Cristina Alonso, Robert Kleemann,  
-*Translational Research*  
-| [doi]() | [abstract]() | [pubmed]() |  
-
-`2018`
 **Targeted UPLC-MS metabolic analysis of human faeces reveals novel low-invasive candidate markers for colorectal cancer**, Joaquin Cubiella, Marc Clos-Garcia, Cristina Alonso, *Ibon Martínez-Arranz*, Miriam Perez-Cormenzana, Ziortza Barrenetxea, Jesus Berganza, Isabel Rodríguez-Llopis, Mauro D'Amato, Luis Bujanda, Marta Diaz-Ondina, Juan M. Falcón-Pérez,  
 *Cancers*  
 | [doi](https://doi.org/10.3390/cancers10090300) | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30200467) | [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6162413/) |
 
-<!--
-RECHAZADO
-`2018`
-**Anti-inflammatory and anti-fibrotic effects of OCA in Ldlr-/-.Leiden mice are paralleled by modulation of gene signatures and metabolites that are characteristic for human NASH**, 
-
-*Hepatology Communications*  
-| [doi]() | [abstract]() | [pubmed]() |  
--->
 
 `2018`
 **Metabolomic-based noninvasive serum tests to diagnose nonalcoholic steatohepatitis: Results from discovery and validation cohorts**, Rebeca Mayo, Javier Crespo, *Ibon Martínez-Arranz*, Jesus M Banales, Mayte Arias, Itziar Mincholé, Rocío Aller de la Fuente, Raúl Jimenez-Agüero, Cristina Alonso, Daniel A de Luis, Libor Vitek, Jan Stritesky, Joan Caballería, Manuel Romero-Gómez, Antonio Martín-Duce, Jose Maria Mugüerza Huguet, José Ignacio Busteros-Buraza, Michael O. Idowu, Azucena Castro, M Luz Martínez-Chantar, Pablo Ortiz, Radan Bruha, Shelly C Lu, Pierre Bedossa, Mazen Noureddin, Arun J. Sanyal, José M Mato,  
