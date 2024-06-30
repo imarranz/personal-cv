@@ -1,10 +1,12 @@
 # Biographical Sketch
 
-![](./figures/personal-cv-logo.png)
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/428740509/6242be52-9bd9-4956-9196-95b11241fd76" alt="Personal CV | Ibon Martínez-Arranz">
+</p>
 
 **NAME**: Ibon Martínez Arranz  
 
-**POSITION TITLE**: Data Science Manager at OWL  
+**POSITION TITLE**: Data Science Manager at OWL Metabolomics
 
 **EDUCATION/TRAINING**:
 
@@ -33,7 +35,7 @@ Researcher in Metabolomics Department at OWL Metabolomics. (2010 - 2017).
 ## C. Contributions to Science
 
 Author of 24 publications
-Google Scholar H-index = 16
+Google Scholar H-index = 17
 Researcher unique identifier  
 
   * [ORCID](https://orcid.org/0000-0001-9483-8426)  
