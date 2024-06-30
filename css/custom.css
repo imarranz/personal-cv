@@ -1,0 +1,251 @@
+
+/* Include Google Fonts */
+/* https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+
+
+
+
+body {
+    font-family: 'Comfortaa';/*'Bitter';*/
+    line-height: 2.0;
+}
+
+h1, h2, h3 {
+    font-family: 'Comfortaa'; /*'Fjalla One';*/
+    color: #0094C6;
+}
+
+a {
+    color: #33A9D1;
+    text-decoration: none;
+}
+/*a:visited {
+    color: #71B547;
+    text-decoration: none;
+}*/
+
+.boxed {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Info Box */
+.info {
+    border: 2px solid #2c3e50;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #e8f4fa;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Warning Box */
+.warning {
+    border: 2px solid #d35400;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #fef8e7 !warning;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Error Box */
+.error {
+    border: 2px solid #e74c3c;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #fdecea !error;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Tip Block */
+.tip {
+    border: 2px solid #27ae60;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #e8f9f0 !tip;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+/* Important Block */
+.important {
+    border: 2px solid #E67E22;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #FCF3E3 !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+
+.centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0; /* Optional: Adds vertical margin for spacing */
+}
+
+.centered-image img {
+    width: 50%;
+    height: auto; /* Maintains the aspect ratio */
+}
+/* #0094C6   #33A9D1   #66BFDD   #99D4E8   #CCEAF4
+
+/* Cover Block */
+.cover {
+    border: 2px solid #0094C6; /* #27ae60; */
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #CCEAF4; /*#e8f9f0; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.cover-content {
+    display: flex;
+    align-items: center;
+}
+
+.cover-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cover-image img {
+    width: 100%;
+    max-width: auto; /* Adjust the max-width as needed */
+    height: auto;
+    border-radius: 5px; /* Optional: Add rounded corners to the image */
+}
+
+.cover-text {
+    flex: 2;
+    padding-left: 20px;
+}
+
+/* TABLES */
+
+/* Style for all tables */
+/* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1em;
+    text-align: left;
+}
+
+th {
+    background-color: #0094C6; /* Dark background for header */
+    color: #fff; /* White text for header */
+    padding: 12px 15px;
+}
+
+table tbody td {
+    border: 5px solid #2C3E50; /* Border for table cells */
+    padding: 12px 15px;
+}
+
+table tbody tr:nth-of-type(even) {
+    background-color: #CCEAF4; /* Zebra striping for rows */
+}
+
+table tbody tr:hover {
+    background-color: #CCEAF4; /* Hover effect for rows */
+}
+
+
+/* PUBLICATION */
+
+.publication {
+    background-color: #f4f4f4; /* Fondo claro para cada artículo */
+    border-left: 10px solid #0094C6; /* Barra lateral azul para resaltar */
+    padding: 20px; /* Espaciado interno */
+    margin-bottom: 20px; /* Espaciado entre artículos */
+    border-radius: 8px; /* Bordes redondeados */
+    position: relative;
+}
+
+.publication header time {
+    font-size: 1.1em;
+    color: #666; /* Color gris para el año */
+}
+
+.publication header h2 {
+    margin-top: 5px;
+    font-size: 1.1em; /* Tamaño más grande para el título */
+    color: #333; /* Color oscuro para el título */
+    display: inline; /* Para alinear con el botón */
+}
+
+.toggle-button {
+    background: none;
+    border: none;
+    color: #0094C6;
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.details {
+    display: none; /* Oculto inicialmente */
+}
+
+.authors, .journal {
+    font-size: 0.9em; /* Tamaño de fuente más pequeño para autores y detalles de la revista */
+    color: #555; /* Color gris oscuro para texto regular */
+}
+
+.links a {
+    display: inline-block;
+    padding: 4px 15px;
+    margin: 5px;
+    background-color: #0094C6; /* Color de fondo azul */
+    color: white; /* Texto blanco */
+    text-decoration: none; /* No subrayado */
+    border-radius: 5px; /* Bordes redondeados */
+    transition: background-color 0.3s; /* Transición suave para el cambio de color */
+}
+
+.links a:hover {
+    background-color: #66BFDD; /* Color más oscuro al pasar el mouse */
+}
+
+/* SKILLS */
+
+.skill {
+    margin: 5px 0;
+    background-color: #aaa;
+    position: relative;
+    border-radius: 10px; /* Bordes redondeados */
+    height: 30px;
+    width: 90%;
+}
+.skill-level {
+    background-color: #0094C6;
+    height: 100%;
+    border-radius: 10px; /* Bordes redondeados */
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: right;
+    padding-right: 10px;
+    color: white;
+}
