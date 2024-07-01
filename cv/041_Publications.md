@@ -161,7 +161,7 @@ Javier Michelena, Cristina Alonso, José Altamirano, *Ibon Martínez-Arranz*, Ra
 *Journal of Hepatology, Volume 56, Supplement 2, Pages S535--S536*.  
 | [doi](http://dx.doi.org/10.1016/S0168-8278(12)61374-9 "dx.doi.org/10.1016/S0168-8278(12)61374-9") | 
 
-`2012 `
+`2012`
 **Obesity dependent metabolic signatures associated with nonalcoholic fatty liver disease progression**,
 Barr, J., Caballería, J., *Martínez-Arranz, I.*, Domínguez Díez, A., Alonso, C., Muntané, J., Pérez Cormenzana, M., García Monzón, C., Mayo, R., Martín Duce, A., Romero Gómez, M., Lo Iacono, O., Tordjman, J., Andrade, R.J., Pérez Carreras, M., le Marchand Brustel, Y., Tran, A., Fernández Escalante, C., Arévalo, E., García Unzueta, M., Clement, K., Crespo, J., Gual, P.,Gómez Fleitas, M., Martínez Chantar, M.L., Castro, A., S.C. Lu, Vázquez Chantada, M., Mato, J.M.,  
 *Journal of Proteome Research, Febrero de 2012. J. Proteome Res. 2012, 11, 2521--2532*.  
