@@ -149,5 +149,105 @@ formatted_html = format_article_to_html(input_text)
 print(formatted_html)
 
 
+input_text = """`2017`
+**Role of aramchol in steatohepatitis and fibrosis in mice**,
+Marta Iruarrizaga-Lejarreta, Marta Varela-Rey, David Fernández-Ramos, *Ibon Martínez-Arranz*, Teresa C Delgado, Jorge Simon, Virginia Gutiérrez-de Juan, Laura delaCruz-Villar, Mikel Azkargorta, José L. Lavin, Rebeca Mayo, Sebastiaan M. Van Liempd, Igor Aurrekoetxea, Xabier Buqué, Donatella Delle Cave, Arantza Peña, Juan Rodríguez-Cuesta, Ana M. Aransay, Felix Elortza, Juan M. Falcón-Pérez, Patricia Aspichueta, Liat Hayardeny, Mazen Noureddin,  Arun J. Sanyal, Cristina Alonso, Juan Anguita, María Luz Martínez-Chantar, Shelly C. Lu, and José M. Mato,
+*Hepatology Communications, Volume 1, number 9, November 2017, Pages 911--927*
+| [doi](http://dx.doi.org/10.1002/hep4.1107) | [abstract](http://onlinelibrary.wiley.com/doi/10.1002/hep4.1107/abstract) | [html](http://onlinelibrary.wiley.com/doi/10.1002/hep4.1107/full "Role of aramchol in steatohepatitis and fibrosis in mice") | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29159325 "Role of aramchol in steatohepatitis and fibrosis in mice") | [pdf](http://onlinelibrary.wiley.com/doi/10.1002/hep4.1107/epdf "Role of aramchol in steatohepatitis and fibrosis in mice") |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2017`
+**Serum extracellular vesicles contain protein biomarkers for primary sclerosing cholangitis and cholangiocarcinoma**,
+Ander Arbelaiz, Mikel Azkargorta, Marcin Krawczyk, Álvaro Santos-Laso, Ainhoa Lapitz, Maria J. Perugorria, Oihane Erice, Esperanza Gonzalez, Raúl Jimenez-Agüero, Adelaida Lacasta, César Ibarra, Alberto Sánchez-Campos, Juan P. Jimeno, Frank Lammert, Piotr Milkiewicz, Marco Marzioni, Rocio I.R. Macias, José J.G.Marín, Tushar Patel, Gregory J. Gores, *Ibon Martinez*, Félix Elortza, Juan M. Falcón-Pérez, Luis Bujanda, and Jesus M. Banales,
+*Hepatology, Volume 66, issue 4, October 2017, Pages 1125--1143*
+| [doi](http://dx.doi.org/10.1002/hep.29291) | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28555885 "Serum extracellular vesicles contain protein biomarkers for primary sclerosing cholangitis and cholangiocarcinoma") |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2017`
+**A Metabolomics Signature Linked To Liver Fibrosis In The Serum Of Transplanted Hepatitis C Patients**,
+Ainara Cano, Zoe Mariño, Oscar Millet, *Ibon Martínez-Arranz*, Miquel Navasa, Juan Manuel Falcón-Pérez, Miriam Pérez-Cormenzana, Joan Caballería, Nieves Embade, Xavier Forns, Jaume Bosch, Azucena Castro & José María Mato,
+*Scientific Reports 7, article number: 10497.*
+| [doi](https://doi.org/10.1038/s41598-017-10807-y) | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28874799 "A Metabolomics Signature Linked To Liver Fibrosis In The Serum Of Transplanted Hepatitis C Patients") | [pdf](https://www.nature.com/articles/s41598-017-10807-y.pdf "A Metabolomics Signature Linked To Liver Fibrosis In The Serum Of Transplanted Hepatitis C Patients") |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2017`
+**Metabolomic Identification of Subtypes of Nonalcoholic Steatohepatitis**,
+Alonso C, Fernández-Ramos D, Varela-Rey M, *Martínez-Arranz I*, Navasa N, Van Liempd SM, Lavin JL, Mayo R, Ilisso CP, de Juan VG, Iruarrizaga-Lejarreta M, delaCruz-Villar L, Mincholé I, Robinson A, Crespo J, Martín-Duce A, Romero-Gomez M, Sann H, Platon J, Van Eyk J, Aspichueta P, Noureddin M, Falcón-Pérez JM, Anguita J, Aransay AM, Martínez-Chantar ML, Lu SC, Mato JM.,
+*Gastroenterology, Volume 152, issue 6, May 2017, Pages 1449--1461.e7*
+| [doi](http://dx.doi.org/10.1053/j.gastro.2017.01.015) | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28132890 "Metabolomic Identification of Subtypes of Nonalcoholic Steatohepatitis") | [pdf](http://www.gastrojournal.org/article/S0016-5085(17)30072-0/pdf) |
+"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2016`
+**Metabolically active extracellular vesicles released from hepatocytes under drug-induced liver-damaging conditions modify serum metabolome and might affect different pathophysiological processes**,
+Felix Royo, Laura Palomo, Justyna Mleczko, Esperanza Gonzalez, Cristina Alonso, *Ibon Martínez-Arranz*, Miriam Pérez-Cormenzana, Azucena Castro, Juan M. Falcon-Perez,
+*European Journal of Pharmaceutical Sciences, Volume 98, February 2017, Pages 51--57*.
+| [doi](http://dx.doi.org/10.1016/j.ejps.2016.10.020 "http://dx.doi.org/10.1016/j.ejps.2016.10.020") | [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27771515 "Metabolically active extracellular vesicles released from hepatocytes under drug-induced liver-damaging conditions modify serum metabolome and might affect different pathophysiological processes") |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2015`
+**Enhancing metabolomics research through data mining**,
+*Martínez-Arranz, I.*, Mayo, R., Pérez-Cormenzana, M., Mincholé, I., Salazar, L., Alonso, C., José M Mato,
+*Journal of Proteomics, Volume 127 (Part B), September 2015, Pages 275--288*.
+| [doi](http://dx.doi.org/10.1016/j.jprot.2015.01.019 "dx.doi.org/10.1016/j.jprot.2015.01.019") | [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25668325 "Enhancing metabolomics research through data mining") |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2015`
+**Data in support of enhancing metabolomics research through data mining**,
+*Martínez-Arranz, I.*, Mayo, R., Pérez-Cormenzana, M., Mincholé, I., Salazar, L., Alonso, C., José M Mato,
+*Data in Brief, Volume 3, June 2015, Pages 155--164*.
+| [doi](http://dx.doi.org/10.1016/j.dib.2015.02.008 "dx.doi.org/10.1016/j.dib.2015.02.008") | [pubmed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510074/ "Data in support of enhancing metabolomics research through data mining") | [pdf](http://www.sciencedirect.com/science/article/pii/S2352340915000190/pdfft?md5=0eb6c576f46649571086f2e479cefc66&pid=1-s2.0-S2352340915000190-main.pdf "data in support of enhancing metabolomics research through data mining") | [web application](http://rstudio.owlmetabolomics.com:8031/AgingAnalysis/) |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2013`
+**Excess S-adenosylmethionine reroutes phosphatidylethanolamine towards phosphatidylcholine and triglyceride synthesis**,
+Maite Martínez-Uña, Marta Varela-Rey, Ainara Cano, Larraitz Fernández-Ares, Naiara Beraza, Igor Aurrekoetxea, *Ibon Martínez-Arranz*, Juan L García-Rodríguez, Xabier Buqué, Daniela Mestre, Zigmund Luka, Conrad Wagner, Cristina Alonso, Richard H Finnell, Shelly C Lu, M Luz Martínez-Chantar, Patricia Aspichueta, José M Mato,
+*Hepatology, Octubre de 2013. HEPATOLOGY, Vol. 58, No. 4, 2013*
+| [doi](http://dx.doi.org/10.1002/hep.26399 "dx.doi.org/10.1002/hep.26399") | [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23505042 "Excess S-adenosylmethionine reroutes phosphatidylethanolamine towards phosphatidylcholine and triglyceride synthesis") | [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720726/pdf/nihms457099.pdf) |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2013`
+**Solute carrier family 2 member 1 (SLC2A1) is involved in the development of nonalcoholic fatty liver disease**,
+Vazquez-Chantada, M., Gonzalez-Lahera, A., *Martinez-Arranz, I.*, Garcia-Monzon, C., Maria Regueiro, M., Garcia-Rodriguez, J.L., Karin Anna Schlangen, Mendibil, I., Rodriguez-Ezpeleta, N., Lozano, J.L., Karina Banasik, Johanne M Justesen, Torben Joergensen, Daniel R Witte, Torsten Lauritzen, Torben Hansen, Oluf Pedersen, Nicolas Veyrie, Karine Clement, Joan Tordjman, Albert Tran, Yannik Le Marchand-Brustel, Xabier Buque, Aspichueta, P., Echevarria-Uraga, J.J., Martin-Duce, A., Caballería, J., Philippe Gual, Castro, A., Mato, J.M., Martinez-Chantar, M.L., Aransay, A.M.,
+*Hepatology, Febrero de 2013. HEPATOLOGY, Vol. 57, No. 2, 2013*.
+| [doi](http://dx.doi.org/10.1002/hep.26052 "dx.doi.org/10.1002/hep.26052") | [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22961556 "Solute carrier family 2 member 1 (SLC2A1) is involved in the development of nonalcoholic fatty liver disease") |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2012`
+**Metabolic profile associated with alcoholic hepatitis and the response to treatment. Preliminary results**,
+Javier Michelena, Cristina Alonso, José Altamirano, *Ibon Martínez-Arranz*, Ramón Bataller, MariaLuz Martínez-Chantar, Azucena Castro, Jose M. Mato, Juan Caballería,
+*Journal of Hepatology, Volume 56, Supplement 2, Pages S535--S536*.
+| [doi](http://dx.doi.org/10.1016/S0168-8278(12)61374-9 "dx.doi.org/10.1016/S0168-8278(12)61374-9") | """
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
+input_text = """`2012`
+**Obesity dependent metabolic signatures associated with nonalcoholic fatty liver disease progression**,
+Barr, J., Caballería, J., *Martínez-Arranz, I.*, Domínguez Díez, A., Alonso, C., Muntané, J., Pérez Cormenzana, M., García Monzón, C., Mayo, R., Martín Duce, A., Romero Gómez, M., Lo Iacono, O., Tordjman, J., Andrade, R.J., Pérez Carreras, M., le Marchand Brustel, Y., Tran, A., Fernández Escalante, C., Arévalo, E., García Unzueta, M., Clement, K., Crespo, J., Gual, P.,Gómez Fleitas, M., Martínez Chantar, M.L., Castro, A., S.C. Lu, Vázquez Chantada, M., Mato, J.M.,
+*Journal of Proteome Research, Febrero de 2012. J. Proteome Res. 2012, 11, 2521--2532*.
+| [doi](http://dx.doi.org/10.1021/pr201223p) | [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22364559 "Obesity dependent metabolic signatures associated with nonalcoholic fatty liver disease progression") |"""
+formatted_html = format_article_to_html(input_text)
+print(formatted_html)
+
+
 
 
