@@ -4,6 +4,11 @@
   <img src="https://repository-images.githubusercontent.com/428740509/6242be52-9bd9-4956-9196-95b11241fd76" alt="Personal CV | Ibon Martínez-Arranz">
 </p>
 
+<p align="center">
+   <a href="https://imarranz.github.io/personal-cv/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fimarranz.github.io%2Fpersonal-cv%2F&up_message=Personal%20CV" alt="Web"/>
+  </a>
+</p>
+
 **NAME**: Ibon Martínez Arranz  
 
 **POSITION TITLE**: Data Science Manager at OWL Metabolomics
