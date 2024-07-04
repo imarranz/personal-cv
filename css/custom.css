@@ -24,6 +24,10 @@ h1, h2, h3 {
     color: #0094C6;
 }
 
+h2 {
+    font-size: 1.8em;
+}
+
 a {
     color: #33A9D1;
     text-decoration: none;
@@ -70,6 +74,16 @@ a {
     background-color: #fdecea !error;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
+}
+
+/* GitHub Description */
+.githubdescription {
+    /*border: 2px solid #CCEAF4;*/
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #DDDDDD !important;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
 }
 
 /* Tip Block */
@@ -231,12 +245,12 @@ table tbody tr:hover {
 /* SKILLS */
 
 .skill {
-    margin: 5px 0;
-    background-color: #aaa;
+    margin: 5px 5px 5px 5px;
+    background-color: #bbb;
     position: relative;
     border-radius: 10px; /* Bordes redondeados */
     height: 30px;
-    width: 90%;
+    width: 100%;
 }
 .skill-level {
     background-color: #0094C6;
@@ -249,3 +263,31 @@ table tbody tr:hover {
     padding-right: 10px;
     color: white;
 }
+
+/* PAPERS */
+
+.papers {
+    margin: 3px 5px 3px 10%;
+    background-color: #ddd;
+    position: relative;
+    border-radius: 5px; /* Bordes redondeados */
+    height: 20px;
+    width: 80%;
+    overflow: visible;
+}
+.paper-level {
+    background-color: #0094C6;
+    height: 100%;
+    border-radius: 5px; /* Bordes redondeados */
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: left;
+    padding-left: 10px;
+    color: white;
+    font-size: 12px; /* Set font size to 14px */
+    display: flex;
+    align-items: center; /* Center text vertically */
+}
+
+
