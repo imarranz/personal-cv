@@ -59,6 +59,11 @@ NemSolutions's "data challenge" ([nemsolutionsevents](https://www.nemsolutionsev
   <i class="fa fa-circle fa-stack-2x"></i>
   <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
 </span> <a href="http://twitter.com/imarranz">@imarranz</a>
+<br>
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-bicycle fa-stack-1x fa-inverse"></i>
+</span> <a href="https://es.wikiloc.com/wikiloc/user.do?id=13641348">@imarranz</a>
 </div>
 
 <!--
