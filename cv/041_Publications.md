@@ -1,5 +1,11 @@
 ## PUBLICATIONS
 
+### 2024
+
+**Genetic algorithms applied to translational strategy in metabolic-dysfunction associated steatohepatitis (MASH). Learning from mouse models**, *Ibon Martínez-Arranz*, Cristina Alonso, Rebeca Mayo, Itziar Mincholé, José M. Mato, and Dae-Jin Lee
+*Computer Methods and Programs in Biomedicine, October 2024*
+| [doi](https://doi.org/10.1016/j.cmpb.2024.108346) |
+
 ### 2023
 
 `2023`

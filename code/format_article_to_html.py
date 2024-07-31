@@ -1,18 +1,53 @@
 import re
 
 def format_article_to_html(text):
-    # Primero, extraemos el año, título y resto del contenido
+    """
+    Converts a text string with specific markup into a structured HTML document.
+
+    Parameters
+    ----------
+    text : str
+        The input text containing metadata and content with specific markup used
+        to delineate different parts of an article such as title, authors, publication
+        details, and associated links.
+
+    Returns
+    -------
+    str
+        A string that represents the HTML structure of the article, including
+        elements like headers, authors, publication details, and links formatted
+        as an interactive HTML article element.
+
+    Notes
+    -----
+    The input text is expected to use special characters and markup to denote different
+    sections:
+    - Uses `**` to enclose the title.
+    - Uses `*` to separate author names and publication details.
+    - Uses `|` to separate main content from links.
+    - Markdown-like links are provided in the format [text](url).
+
+    The function extracts these elements from the input string, processes them, and
+    integrates them into a structured HTML format. It also adds interactivity
+    components such as a toggle button to show or hide details.
+    """
+
+    # Extract the year and title using regular expressions
     year = re.search(r"`(\d{4})`", text).group(1)
     title = re.search(r"\*\*(.*?)\*\*", text).group(1)
 
-    # Extraemos el resto del contenido después del título hasta el primer "|"
+    # Process the part after the title to extract authors and journal information
     authors_and_journal = text.split("**,")[-1].split("|")[0]
 
-    # Los autores están antes del primer asterisco "*", y los detalles de la publicación están entre los asteriscos "*"
-    authors = authors_and_journal.split("*")[0].strip() + ' <em><b><span style="color: #0094C6">' + authors_and_journal.split("*")[1].strip() + '</span></b></em>' + authors_and_journal.split("*")[2].strip()
+    # Extract authors and publication details from the formatted text
+    authors = authors_and_journal.split("*")[0].strip() + \
+              ' <em><b><span style="color: #0094C6">' + \
+              authors_and_journal.split("*")[1].strip() + \
+              '</span></b></em>' + \
+              authors_and_journal.split("*")[2].strip()
     publication_details = authors_and_journal.split("*")[3].strip()
 
-    # Manejamos los enlaces al final del texto
+    # Extract and format the links from the text
     links_section = text.split("|")[1:]
     links_html = ''
     for link in links_section:
@@ -21,10 +56,10 @@ def format_article_to_html(text):
             link_url = link.split('(')[1].split(')')[0]
             links_html += f'<a href="{link_url}" target="_blank">{link_text}</a> | '
 
-    # Limpiar el último "|" sobrante en los enlaces, si existe
+    # Clean up the trailing '|' from the links string if present
     links_html = links_html.strip().rstrip('|').strip()
 
-    # Construir el HTML
+    # Construct the HTML output for the article
     html_output = f'''
 <article class="publication">
     <header>
@@ -42,6 +77,7 @@ def format_article_to_html(text):
 </article>
 '''
     return html_output
+
 
 # Test the function with a sample input
 input_text = "`2023` **Serum identification of At-Risk MASH: The Metabolomics-Advanced steatohepatitis fibrosis score (MASEF)**, Mazen Noureddin, Emily Truong, Rebeca Mayo, *Ibon Martínez-Arranz*, Itziar Mincholé, Jesus M Banales, Marco Arrese, Kenneth Cusi, María Teresa Arias-Loste, Radan Bruha, Manuel Romero-Gómez, Paula Iruzubieta, Rocio Aller, Javier Ampuero, José Luis Calleja, Luis Ibañez-Samaniego, Patricia Aspichueta, Antonio Marín-Duce, Tatyana Kushner, Pablo Ortiz, Stephen A Harrison, Quentin M Anstee, Javier Crespo, José M Mato, and Arun J Sanyal *Hepatology 79(1):p 135-148, January 2024.* | [doi](https://doi.org/10.1097/hep.0000000000000542) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/37505221/) |"
