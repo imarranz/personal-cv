@@ -2,9 +2,19 @@
 
 ### 2024
 
+`2024`
+
 **Genetic algorithms applied to translational strategy in metabolic-dysfunction associated steatohepatitis (MASH). Learning from mouse models**, *Ibon Martínez-Arranz*, Cristina Alonso, Rebeca Mayo, Itziar Mincholé, José M. Mato, and Dae-Jin Lee
 *Computer Methods and Programs in Biomedicine, October 2024*
-| [doi](https://doi.org/10.1016/j.cmpb.2024.108346) |
+| [doi](https://doi.org/10.1016/j.cmpb.2024.108346) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/39089186/) |
+
+`2024`
+
+**One‐step non‐invasive diagnosis of metabolic dysfunction‐associated steatohepatitis and fibrosis in high‐risk population**, Paula Iruzubieta, Rebeca Mayo, Itziar Mincholé, *Ibon Martínez‐Arranz*, María Teresa Arias‐Loste, Luis Ibañez‐Samaniego, Javier Ampuero,
+Javier Abad, Rosa Martín‐Mateos, Ana Belén Fernández‐Laso, Agustín Albillos, Rafael Bañares, José Luis Calleja, Manuel Romero‐Gómez, Rocío Aller, Javier Crespo
+*United European Gastroenterol J. 2024;1–11*
+| [doi](https://doi.org/10.1002/ueg2.12589) | [pubmed](https://pubmed.ncbi.nlm.nih.gov/39099245/) |
+
 
 ### 2023
 
