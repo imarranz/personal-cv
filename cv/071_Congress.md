@@ -7,11 +7,16 @@
 *American Diabetes Association, June 21-24, 2024.*  
 | ADA 84 | ID: 1326-P |
 
+`2024`
+
+**One‐step non‐invasive diagnosis of metabolic dysfunction associated steatohepatitis and fibrosis in high‐risk population**, Rebeca Mayo, Paula Iruzubieta, Itziar Mincholé, Rocío Aller, Luis Ibañez-Samaniego, Javier Ampuero, Javier Abad, Rosa Martín-Mateos, María Teresa Arias-Loste, Agustín Albillos, Rafael Bañares, José Luis Calleja, Manuel Romero-Gomez, Pablo Ortiz, *Ibón Martínez-Arranz*, Javier Crespo,
+*Annual Scientific Meeting of the Indian National Association for Study of the Liver (INASL 2024), which will be held from 7th to 10th August 2024 at Le Meridien, Kochi.*
+| INASL 2024 | ID: 590 |
+
 ### 2023
 
 `2023`
-**Genetic Algorithms Reveal Potential to Stratify NAFLD Heterogeneity**, *Ibon Martínez-Arranz*, Cristina Alonso, Rebeca Mayo, Ruben Gil-Redondo, Itziar Mincholé, Alejandro Montilla, Óscar Millet, Mazen Noureddin,
-Shelly C. Lu, Nicholas Davidson and José M Mato,  
+**Genetic Algorithms Reveal Potential to Stratify NAFLD Heterogeneity**, *Ibon Martínez-Arranz*, Cristina Alonso, Rebeca Mayo, Ruben Gil-Redondo, Itziar Mincholé, Alejandro Montilla, Óscar Millet, Mazen Noureddin, Shelly C. Lu, Nicholas Davidson and José M Mato,
 *The Liver Meeting 2023, Annual Meeting of the American Association for the Study of Liver Diseases, November 10-14, 2023.*  
 | AASLD 2023 | ID: 2048-A |  
 
