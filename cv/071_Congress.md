@@ -8,6 +8,11 @@
 | ADA 84 | ID: 1326-P |
 
 `2024`
+**Impact of Body Mass Index on Non-Invasive Test Accuracy for the Diagnosis of At-Risk Metabolic Dysfunction-Associated Steatohepatitis**, P. Iruzubieta, R. Mayo, I. Mincholé, I. Martínez-Arranz, M.T. Arias Loste, L. Ibañez-Samaniego, C. Alonso, J.L. Calleja Panero, M. Romero-Gómez, R. Aller, M. Noureddin, J. Crespo,
+*International Liver Congress 2024*
+| EASL ILC 2024 | |
+
+`2024`
 
 **One‐step non‐invasive diagnosis of metabolic dysfunction associated steatohepatitis and fibrosis in high‐risk population**, Rebeca Mayo, Paula Iruzubieta, Itziar Mincholé, Rocío Aller, Luis Ibañez-Samaniego, Javier Ampuero, Javier Abad, Rosa Martín-Mateos, María Teresa Arias-Loste, Agustín Albillos, Rafael Bañares, José Luis Calleja, Manuel Romero-Gomez, Pablo Ortiz, *Ibón Martínez-Arranz*, Javier Crespo,
 *Annual Scientific Meeting of the Indian National Association for Study of the Liver (INASL 2024), which will be held from 7th to 10th August 2024 at Le Meridien, Kochi.*
