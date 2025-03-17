@@ -9,7 +9,7 @@
 ### Employment
 
 `2023`
-[OWL Metabolomics (Rubió Metabolomics, S.L.)][OWL Metabolomics] **Data Science Manager**.
+[Rubió Metabolomics][OWL Metabolomics] **Data Science Manager**.
 Data Processing and Analysis, Statistical Studies and Operational Research. *Statistical data processing and analysis. Collaboration in the preparation of technical reports. Elaboration of the statistical methodology used and justification.*
 
 

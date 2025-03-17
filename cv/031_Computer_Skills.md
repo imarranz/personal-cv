@@ -1,5 +1,7 @@
 ## COMPUTER & IT SKILLS
 
+I have formal training in **Computerized System Validation**, which has provided me with a solid understanding of regulatory compliance, data integrity, and risk-based approaches in IT environments. This expertise complements my strong background in structured programming (Python, FORTRAN, C/C++, Visual Basic) and scientific programming with statistical tools like R, SPSS, SAS, Julia, and Matlab.
+
 <!--
 ### Operating System
 Gnu/Linux (Ubuntu, Mint, Suse), Windows(98, XP, 7), MS-DOS  

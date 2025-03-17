@@ -1,5 +1,9 @@
 ## COMPLEMENTARY EDUCATION  
 
+**ICH Good Clinical Practice (GCP)**: Completed the ICH GCP course provided by the [Global Health Training Centre][Global Health Training Centre], gaining comprehensive knowledge of ethical and scientific quality standards for designing, conducting, recording, and reporting clinical trials involving human subjects. This training ensures adherence to regulatory requirements and promotes data integrity and subject safety.
+
+**Data Sharing**: Completed the Data Sharing course from the [Global Health Training Centre][Global Health Training Centre], focusing on best practices for responsible data management, ethical data sharing, and ensuring compliance with privacy regulations. The course covers strategies for secure data handling in research environments, enhancing transparency and collaboration.
+
 `2023`
 **Machine Learning aplicado con Pycaret**, Bizkaia Enpresa Digitala, 8h. 
 
@@ -72,4 +76,5 @@
 **Matemáticas en el Mundo Real (Curso de Verano, UPV)**, Prof. D. Mikel Lezaun. Universidad del País Vasco, 20h.
 --> 
 
+[Global Health Training Centre]: https://globalhealthtrainingcentre.tghn.org/
 [BCAM]: http://www.bcamath.org/
