@@ -11,36 +11,36 @@
 
 **NAME**: Ibon Martínez Arranz  
 
-**POSITION TITLE**: Data Science Manager at OWL Metabolomics
+**POSITION TITLE**: Data Science Manager at Rubió Metabolomics
 
 **EDUCATION/TRAINING**:
 
 | INSTITUTION<br>AND LOCATION | DEGREE | COMPLETION<br>DATE | FIELD OF<br>STUDY |
 |-------------------------:|:------:|:---------------:|:---------------|
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc. | 06/2003 | Mathematics |
-| National University of Distance Education (Spain) | Expert degree | 07/2007 | Statistics Applied to Health Sciences |
-| National University of Distance Education (Spain) | Expert degree | 07/2008 | Advanced Methods of Applied Statistics |
-| National University of Distance Education (Spain) | MSc. | 07/2012 | Current Applied Statistics Techniques |
-| National University of Distance Education (Spain) | Expert degree | 07/2013 | Multivariate Statistical Techniques |
-| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc. | 05/2016 | Mathematical Modeling, Statistical Analysis and Computation |
-| University of basque Country (UPV/EHU) (Biscay, Spain) | Ongoing PhD. | Expected 2024 | Applied Mathematics |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | BSc. | June 2003 | Mathematics |
+| National University of Distance Education (Spain) | Expert degree | July 2007 | Statistics Applied to Health Sciences |
+| National University of Distance Education (Spain) | Expert degree | July 2008 | Advanced Methods of Applied Statistics |
+| National University of Distance Education (Spain) | MSc. | July 2012 | Current Applied Statistics Techniques |
+| National University of Distance Education (Spain) | Expert degree | July 2013 | Multivariate Statistical Techniques |
+| University of Basque Country (UPV/EHU) (Biscay, Spain) | MSc. | May 2016 | Mathematical Modeling, Statistical Analysis and Computation |
+| University of basque Country (UPV/EHU) (Biscay, Spain) | PhD. | June 2025 | Applied Mathematics |
 
-Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models” under the supervision of José María Mato (General Director of CIC bioGUNE) and Dae-Jin (Data Science line leader of Basque Center for Applied Mathematics, BCAM) in which I apply genetic algorithms for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.
+I have completed a doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in MASH. Learning from Mouse Models”, carried out under the supervision of José María Mato (General Director of CIC bioGUNE) and Dae-Jin Lee (Data Science line leader at the Basque Center for Applied Mathematics, BCAM). In this work, I applied genetic algorithms to identify subtypes of NAFLD based on metabolic features. The methodology developed can be extended to other diseases characterized by metabolic alterations, offering promising applications in the field of precision medicine.
 
 ## A. Personal Statement
 
-Ibon Martínez-Arranz got his BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and performed a MSc. in Current Applied Statistics Techniques and a MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, he joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst and his work was mainly focused on the epidemiological report of renal patients. When he joined OWL Metabolomics in 2010, Ibon first worked as a researcher in the Metabolomics Department and in 2017, he became the head of the Data Science Department, being responsible for prediction and statistical computation management since then. This highly experienced team psupports metabolomics services, laboratory processes, data handling, R&D projects and technology transfer processes.
-
+Dr. Ibon Martínez-Arranz, PhD, got his BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and completed an MSc. in Current Applied Statistics Techniques and an MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, he joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst, focusing primarily on epidemiological reporting for renal patients. When he joined OWL Metabolomics in 2010, Ibon first worked as a researcher in the Metabolomics Department, and in 2017, he became the Head of the Data Science Department, being responsible for predictive modeling and statistical computing. His highly experienced team supports metabolomics services, laboratory processes, data handling, R&D projects, and technology transfer processes.
 
 ## B. Positions and Honors
 
-Head of Data Science Department at OWL. (2017 - to date).  
+Head of Data Science Department at Rubió Metabolomics. (2023 - to date).
+Head of Data Science Department at OWL Metabolomics. (2017 - 2023).
 Researcher in Metabolomics Department at OWL Metabolomics. (2010 - 2017).
 
 ## C. Contributions to Science
 
-Author of 24 publications
-Google Scholar H-index = 17
+Author of 27 publications
+Google Scholar H-index = 19
 Researcher unique identifier  
 
   * [ORCID](https://orcid.org/0000-0001-9483-8426)  
