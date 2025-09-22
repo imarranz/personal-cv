@@ -55,8 +55,8 @@
         </div>
         <div class="cover-text">
             <p style="color: #403724; font-size: 1.1rem;"><b>University of the Basque Country</b></p>
-            <p style="color: #403724; font-size: 0.9rem;"><b><span style="color: red">Currently, </span>PhD student</b></p>
-            <p style="font-size: 0.9rem;">PhD student</p>
+            <p style="color: #403724; font-size: 0.9rem;"><b><span style="color: red">2025, </span>PhD in Mathemtics and Statistics</b></p>
+            <p style="font-size: 0.9rem;">PhD in Mathematics and Statistics</p>
             <p align="left">
             </p>
         </div>

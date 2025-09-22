@@ -3,8 +3,9 @@
 ### Currently
 
 *Ibon Martínez-Arranz got his BSc. in Mathematics from the University of the Basque Country (EHU/UPV) and performed a MSc. in Current Applied Statistics Techniques and a MSc. in Mathematical Modeling Research, Statistical Analysis and Computing Sciences. In 2004, he joined the Basque Country Health Service (The Department of Health of the Basque Country Government and Osakidetza) as a data analyst and his work was mainly focused on the epidemiological report of renal patients. When he joined OWL Metabolomics in 2010, Ibon first worked as a researcher in the Metabolomics Department and in 2017, he became the head of the Data Science Department, being responsible for prediction and statistical computation management since then. This highly experienced team psupports metabolomics services, laboratory processes, data handling, R&D projects and technology transfer processes.*
-  
-*Currently, I am doing a doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models” under the supervision of José María Mato (General Director of CIC bioGUNE) and Dae-Jin (Data Science line leader of Basque Center for Applied Mathematics, BCAM) in which I apply genetic algorithms for the selection of NAFLD subtypes. This procedure could be applied to any disease that is based on metabolic changes. This work also has implications in the field of precision medicine.*    
+
+
+*I completed my doctoral thesis entitled “Genetic Algorithms Applied to Translational Strategy in NASH. Learning from Mouse Models” under the supervision of José María Mato (General Director of CIC bioGUNE) and Dae-Jin (Data Science line leader of Basque Center for Applied Mathematics, BCAM). In this work, I applied genetic algorithms for the selection of NAFLD subtypes, a procedure that can be extended to any disease based on metabolic changes. The results also have significant implications in the field of precision medicine.*
   
 ### Employment
 
