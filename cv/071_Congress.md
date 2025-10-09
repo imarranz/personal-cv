@@ -1,5 +1,20 @@
 ## CONGRESS, CONFERENCES & SEMINARS
 
+### 2025
+
+`2025`
+**Maximizing the diagnostic yield of non-invasive tests: simultaneous optimization of key performance metrics for fibrotic liver disease with a FIB-4 and MASEF (OWLiver) strategy**, *Ibon Martínez-Arranz*, Rebeca Mayo, Mirella Zulueta, Mazen Noureddin, Emily Truong, Jesús M. Bañales, Marco Arrese, Kenneth Cusi, Paula Iruzubieta, Radan Bruha, Manuel Romero-Gómez, Rocío Aller, Javier Ampuero, José Luis Calleja Panero, Luis Ibañez-Samaniego, Patricia Aspichueta, Antonio Martín-Duce, Tatyana Kushner, and Arun Sanyal,
+*The Liver Meeting 2025, Annual Meeting of the American Association for the Study of Liver Diseases, November 7-11, 2025.*
+*Journal of Hepatology 2025 vol. 82(S1) | S804-S805*
+| AASLD 2025 | ID: 2077 |
+
+`2025`
+**Saroglitazar treatment reduced severity of MASLD phenotypes by lipidomic-based test OWLiver in subjects with MASLD in a 16-week phase 2 trial**, Cristina Alonso, *Ibon Martínez-Arranz*, Deven Parmar, Naga Chalasani, and Samer Gawrieh,
+*The Liver Meeting 2025, Annual Meeting of the American Association for the Study of Liver Diseases, November 7-11, 2025.*
+*Journal of Hepatology 2025 vol. 82(S1) | S1795-S1796*
+| AASLD 2025 | ID: 4020 |
+
+
 ### 2024
 
 `2024`
@@ -13,7 +28,6 @@
 | EASL ILC 2024 | |
 
 `2024`
-
 **One‐step non‐invasive diagnosis of metabolic dysfunction associated steatohepatitis and fibrosis in high‐risk population**, Rebeca Mayo, Paula Iruzubieta, Itziar Mincholé, Rocío Aller, Luis Ibañez-Samaniego, Javier Ampuero, Javier Abad, Rosa Martín-Mateos, María Teresa Arias-Loste, Agustín Albillos, Rafael Bañares, José Luis Calleja, Manuel Romero-Gomez, Pablo Ortiz, *Ibón Martínez-Arranz*, Javier Crespo,
 *Annual Scientific Meeting of the Indian National Association for Study of the Liver (INASL 2024), which will be held from 7th to 10th August 2024 at Le Meridien, Kochi.*
 | INASL 2024 | ID: 590 |
