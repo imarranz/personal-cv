@@ -14,6 +14,10 @@
 *Journal of Hepatology 2025 vol. 82(S1) | S1795-S1796*
 | AASLD 2025 | ID: 4020 |
 
+`2025`
+**Bile Acid profiles in patients with Metabolic Dysfunction-Associated Steatotic Liver Disease**, Maria Ayala Valverde, Nancy Solis, Francisca Allendes, Francisco Barrera, Jorge Arnold Alvarez, Cristina Alonso, Juan Pablo Arab, Daniel Cabrera, Luis Antonio Diaz, *Ibon Martinez-Arranz*, Marco Arrese,
+*Asociación Latinoamericana para el Estudio del Hígado, September 29 - October 1, 2025. Lima, Peru*
+| ALEH 2025 |
 
 ### 2024
 
